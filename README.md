@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date:17/12/2025
+## Reg. No.25014914
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -64,3 +64,14 @@ content generation scenarios:
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+
+output:
+
+THE TWO SCENARIOS ARE 1.	Business Report on Market Trends AND 2)Creative Writing - Sci-Fi Short Story
+
+
+[Prompt Patterns Content Generation.pdf](https://github.com/user-attachments/files/24348902/Prompt.Patterns.Content.Generation.pdf)
+
+RESULT:
+
+THE AVOVE MENTIONED CONTENT IS CREATED SUCCESSFULLY
